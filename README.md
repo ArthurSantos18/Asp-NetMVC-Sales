@@ -1,4 +1,3 @@
-# Asp-NetMVC-Sales
 <h1>Asp-NetMVC-Sales</h1>
 <p>
   Site de registro de vendas utilizando a arquitetura MVC
